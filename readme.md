@@ -7,6 +7,16 @@
 
 - 📫 How to reach me **maidana.miguell@gmail.com**
 
+![https://github.com/miguelmaidana](https://github.com/MiguelMaidana/MiguelMaidana/blob/master/kingmono_banner.png)
+
+**Soy Desarrollador Full Stack desde hace más de 10 años.**
+
+**En 2022 dejé mi trabajo en una multinacional y fundé [**Boot Coop**](https://bootcoop.io/), el reflejo de mi sueño de crecer como profesional dentro de la industria del desarrollo de software.**
+</br>
+Desde entonces me he dedicado a especializarme en el desarrollo web y aplicaciones móviles, colaborando con empresas de diferentes partes del mundo, creando más de 50 Apps y fundando mi propia startup.
+
+_Me gustaría devolver de alguna manera, todo el conocimiento que la comunidad ha compartido conmigo, de forma gratuita a lo largo de los años._
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/maidanamiguel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/maidanamiguel/" height="30" width="40" /></a>
